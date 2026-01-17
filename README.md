@@ -71,7 +71,7 @@ FY 2019-20 to FY 2024-25 (5 financial years for dividend analysis)
 February 2022 to November 2025 (45 months for inflation hedging analysis)
 
 ## Report
-The complete analysis document is in `Final-Document-3.pdf`
+The complete analysis document is attached
 
 Under supervision of **Prof. Pankaj Maheshwari**, IIM Jammu
 
